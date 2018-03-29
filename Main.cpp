@@ -22,10 +22,10 @@ vector<Point> myCube;
 int myCubex1, myCubex2, myCubey1, myCubey2;
 float delta = 2;
 double a;
-int amin = 50; //原始值200 300
-int amax = 200; //原始值500 1000
+int amin = 300; //原始值200 300
+int amax = 1000; //原始值500 1000
 
-#define fileName "sample.jpg"
+#define fileName "1.jpg"
 
 int blockSize = 57;
 int constValue = 5;
